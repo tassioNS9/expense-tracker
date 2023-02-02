@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Sistema Financeiro de contas
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `Sistema de contas desenvolvido em REACT com TypeScript`
 
 ### `npm start`
 
